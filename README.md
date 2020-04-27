@@ -1,2 +1,3 @@
 # export_sql_server_tables
-Export sql server tables from all the databases using Powershell script 
+
+Export list of tables from list of databses using bcp from sql server database. 
